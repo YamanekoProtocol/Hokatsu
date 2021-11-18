@@ -16,6 +16,7 @@
 		F14AE7CC2742C39300E65867 /* HokatsuTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14AE7CB2742C39300E65867 /* HokatsuTests.swift */; };
 		F14AE7D62742C39300E65867 /* HokatsuUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14AE7D52742C39300E65867 /* HokatsuUITests.swift */; };
 		F14AE7D82742C39300E65867 /* HokatsuUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14AE7D72742C39300E65867 /* HokatsuUITestsLaunchTests.swift */; };
+		F1C303052746BCA9008E5503 /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C303042746BCA9008E5503 /* MenuViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F14AE7D12742C39300E65867 /* HokatsuUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HokatsuUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F14AE7D52742C39300E65867 /* HokatsuUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HokatsuUITests.swift; sourceTree = "<group>"; };
 		F14AE7D72742C39300E65867 /* HokatsuUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HokatsuUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F1C303042746BCA9008E5503 /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				F14AE7B62742C39000E65867 /* SceneDelegate.swift */,
 				F14AE7B82742C39000E65867 /* ViewController.swift */,
 				F14AE7BA2742C39000E65867 /* Main.storyboard */,
+				F1C303042746BCA9008E5503 /* MenuViewController.swift */,
 				F14AE7BD2742C39300E65867 /* Assets.xcassets */,
 				F14AE7BF2742C39300E65867 /* LaunchScreen.storyboard */,
 				F14AE7C22742C39300E65867 /* Info.plist */,
@@ -261,6 +264,7 @@
 				F14AE7B92742C39000E65867 /* ViewController.swift in Sources */,
 				F14AE7B52742C39000E65867 /* AppDelegate.swift in Sources */,
 				F14AE7B72742C39000E65867 /* SceneDelegate.swift in Sources */,
+				F1C303052746BCA9008E5503 /* MenuViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
